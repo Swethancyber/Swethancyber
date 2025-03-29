@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [A.I personal assistance](https://github.com/Swethancyber/alan-personal-assistant.git)
 
-- 🌱 I’m currently learning **python and API**
+- 🌱 I’m currently learning **creating A.I using python **
 
 - 👯 I’m looking to collaborate on [A.I project based on python](https://github.com/Swethancyber/alan-personal-assistant.git)
 
