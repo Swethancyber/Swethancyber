@@ -19,18 +19,8 @@
                    `"Y$b._                      
                        `""                                            
                                         
- <br>                                       
-<table>
-    <td>
-      <br>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swethancyber&show_icons=true&locale=en&layout=compact" alt="swethancyber" />
-      <br>
-      <div align='center' color='white'>Connect With Me</div>
-<a href="https://in.linkedin.com/in/swethan-balaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/swethan-balaji" height="30" width="40" /></a>  
-      <a href="https://discord.gg/404_not_found0052" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="404_not_found0052" height="30" width="40" /></a>
-</p>
-      <td>
-<div align='center' color='white'>Languages and tools</div>
+                                    
+<table>  
   <br>
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
   <a href="https://www.w3schools.com/html"><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
@@ -42,6 +32,4 @@
   <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
   <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
   <hr>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swethancyber&show_icons=true&locale=en" alt="swethancyber" /></p>
-  <br>
-    </table>
+  </table>
