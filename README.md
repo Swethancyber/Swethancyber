@@ -3,7 +3,7 @@
                                         ---------------------------------------------------------
                 _,met$$$$$gg.                                             
              ,g$$$$$$$$$$$$$$$P.           Username : Swethancyber                    
-           ,g$$P"     """Y$$.".            whoami :   5th semester Computer Application                          
+           ,g$$P"     """Y$$.".            whoami :   6th semester Computer Application                          
           ,$$P'              `$$$.         OS : Linux       
          ',$$P       ,ggs.     `$$b:       Distro : Debian
          `d$$'     ,$P"'   .    $$$        Shell : zsh                        
